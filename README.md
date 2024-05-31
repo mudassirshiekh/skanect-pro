@@ -1,4 +1,5 @@
 # skanect pro
+# Mudassir Alam
 
 ## Description
 This repository contains a tool for generating keys for skanect pro. It includes multiple functions to ensure the creation of valid keys.
